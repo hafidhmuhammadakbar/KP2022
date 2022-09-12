@@ -1,3 +1,4 @@
+[<< Materi Sebelumnya (Pemilihan dengan "switch") <<](1-PemilihanDenganSwitch.md)
 # Perulangan Menggunakan For Statement
 
 Perulangan (atau dalam bahasa inggris disebut dengan **loop**) adalah instruksi kode program yang bertujuan untuk mengulang beberapa baris perintah. Pada materi sebelumnya telah dipelajari tentang perulangan menggunakan **while statement**, kali ini kita akan mempelajari perulangan menggunakan for statement.
@@ -43,7 +44,7 @@ Analisa program :
 8. **Kondisi** `i < 3` adalah **SALAH** (3 TIDAK lebih kecil daripada 3) sehingga proses perulangan `for statement` selesai.
 
 Flowchart : 
-<p align ="center">  <img width = "480" height "380" src = "https://github.com/XnoahR/KP2022/blob/main/Fold/ForStatement1.png" </p>
+<p align ="center">  <img width = "480" height "380" src = "https://github.com/XnoahR/KP2022/blob/main/Material/For.png" </p>
 
 **CATATAN!!!**
 
@@ -119,3 +120,4 @@ printf("nilai variabel i di luar loop = %d", i); // Kode di samping akan menyeba
 ```
 Dapat dilihat bahwa variabel `i` dideklarasi pada komponen **inisialisasi** di `for statement` sehingga setelah perulangan selesai variabel `i` akan _dihancurkan_  atau dihapus.
 
+[>> Materi Selanjutnya (Perulangan menggunakan "do while") >>](3-PerulanganMenggunakanDoWhile.md)
