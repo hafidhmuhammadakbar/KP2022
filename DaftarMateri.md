@@ -2,12 +2,18 @@
 
 - Bab 2 - Structured Programming
   1. [Pengantar (Program Sederhana, Variabel, dan Basic I/O)](Bab2-StructuredProgramming/1-PengantarProgramSederhanaVariabel.md)
-  2. w
-  3. x
-  4. y
+  2. [Algoritma, Pseudocode, dan Source Code](Bab2-StructuredProgramming/2-AlgoritmaPseudocodeSourcecode.md)
+  3. [Operasi Assignment dan Aritmatika](Bab2-StructuredProgramming/3-OperasiAssignmentdanAritmatika.md)
+  4. [Pemilihan dan Perulangan Sederhana](Bab2-StructuredProgramming/4-PemilihandanPerulanganSederhana.md)
 
 - Bab 3 - Program Control
   1. [Pemilihan dengan Switch](Bab3-ProgramControl/1-PemilihanDenganSwitch.md)
   2. [Perulangan Menggunakan For Statement](Bab3-ProgramControl/2-PerulanganMenggunakanFor.md)
   3. [Perulangan Menggunakan Do While](Bab3-ProgramControl/3-PerulanganMenggunakanDoWhile.md)
   4. [Break dan Continue](Bab3-ProgramControl/4-BreakAndContinue.md)
+
+- Bab 4 - Function
+  1. [Pengenalan Function](Bab4-CFunction/1-PengenalanFunction.md)
+  2. [Fungsi-Fungsi Penting C](Bab4-CFunction/2-FungsiLibraryC.md)
+  3. [Aturan Scope](Bab4-CFunction/3-Scope.md)
+  4. [Rekursi](Bab4-CFunction/4-Rekursi.md)
