@@ -18,9 +18,14 @@
   3. [Aturan Scope](Bab4-CFunction/3-Scope.md)
   4. [Rekursi](Bab4-CFunction/4-Rekursi.md)
 
-- Bab 4 - Function
+- Bab 5 - Array
   1. [Pengenalan Array](Bab5-Array/1-PengenalanArray.md)
   2. [Array Multidimensi](Bab5-Array/2-ArrayMultidimensi.md)
   3. [ArraySebagaiParameterFungsi](Bab5-Array/3-ArraySebagaiParameterFungsi.md)
+
+- Bab 6 - Pointer
+  1. [Pengenalan](Bab6-Pointer/1-Pengenalan.md)
+  2. [PasByRef](Bab6-Pointer/2-PasByRef.md)
+  3. [DMA](Bab6-Pointer/3-DMA.md)
   
 
